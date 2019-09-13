@@ -4,6 +4,7 @@
 
 ## 配布先
 [こちら](http://keldic.net/data/open2ch_dialogue_corpus.zip)からダウンロードしてください．
+サンプルデータは[こちら](http://keldic.net/data/corpus_sample.tsv)
 
 ## データ形式
 * データはtsv形式であり，レスアンカー「>>」で指定された投稿同士をタブ区切りで連結しています．各行が1対話となります．
@@ -23,3 +24,4 @@
 | livejupiter.tsv |なんでも実況(ジュピター) | 5948218 | 2.24 |
 | news4vip.tsv | ニュー速VIP | 1983626 | 2.41 |
 | newsplus | ニュース速報+ | 217296 | 2.09 |
+|  | 合計| 8149140 | 2.28 |
