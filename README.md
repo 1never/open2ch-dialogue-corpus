@@ -1,0 +1,1 @@
+# open2ch-dialogue-corpus
