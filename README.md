@@ -30,3 +30,21 @@
 | news4vip.tsv | ニュー速VIP | 1983626 | 2.41 |
 | newsplus.tsv | ニュース速報+ | 217296 | 2.09 |
 |  | 合計| 8149140 | 2.28 |
+
+## 後処理用スクリプト
+様々な用途に使用しやすいよう，不適切な表現を含む投稿を除去するスクリプト(cleaning.py)と改行記号「\_\_BR\_\_」を句読点に置換するスクリプトを用意しました．
+ただし，本スクリプトを適用しても，不適切な表現が完全に除去できるわけではありません．
+また，読点とすべきところを句点とするなど，改行記号が不適切に置換される場合があります．
+
+スクリプトはファイル単位で実行します．
+livejupiter.tsvを対象にスクリプトを実行するコマンドは以下のとおりです．
+
+### 不適切な用語の除去
+```
+$ python cleaning.py --input_file livejupiter.tsv --output_file livejupiter_cleaned.tsv
+```
+### 改行記号の置換
+実行にはmecab-python3が必要です．
+```
+$ python replace_br.py --input_file livejupiter.tsv --output_file livejupiter_replaced.tsv
+```
