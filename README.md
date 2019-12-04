@@ -73,5 +73,15 @@ $ python replace_br.py --input_file livejupiter.tsv --output_file livejupiter_re
 $ python eval_ranking.py --input_file dev.tsv --score_file dev_score.txt
 ```
 
-
+## 文献
+本コーパスを使用した場合，以下を引用してください．
+'''
+@inproceedings{open2chdlc2019,
+  title={おーぷん2ちゃんねる対話コーパスを用いた用例ベース対話システム},
+  author={稲葉 通将},
+  booktitle={第87回言語・音声理解と対話処理研究会(第10回対話システムシンポジウム), 人工知能学会研究会資料 SIG-SLUD-B902-33},
+  pages={129--132},
+  year={2019}
+}
+'''
 
