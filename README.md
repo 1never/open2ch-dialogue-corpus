@@ -73,7 +73,7 @@ $ python replace_br.py --input_file livejupiter.tsv --output_file livejupiter_re
 $ python eval_ranking.py --input_file dev.tsv --score_file score_sample.txt
 ```
 
-## 文献
+## 文献情報
 本コーパスを使用した場合，以下を引用してください．
 ```
 @inproceedings{open2chdlc2019,
