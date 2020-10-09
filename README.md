@@ -5,7 +5,7 @@
 
 ## 配布先
 [こちら](https://drive.google.com/file/d/1-adMFRaJnzpVFf_NwsWU1s1a-NK4DoGZ/view?usp=sharing)からダウンロードしてください．
-内容を見てみたい方のためのサンプルデータは[こちら](http://keldic.net/data/corpus_sample.tsv)．
+内容を見てみたい方のためのサンプルデータは[こちら](https://drive.google.com/file/d/1O24EfKI7Jsjvhh2Tq5qkCmyZP3b6bMnw/view?usp=sharing)．
 
 ## データ形式
 * データはtsv形式であり，レスアンカー「>>」で指定された投稿同士をタブ区切りで連結しています．各行が1対話となります．
