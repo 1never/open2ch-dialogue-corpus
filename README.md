@@ -56,7 +56,7 @@ $ python replace_br.py --input_file livejupiter.tsv --output_file livejupiter_re
 開発データは2019年8月中に立てられたスレッドのみから，テストデータは同年9月中に立てられたスレッドのみからデータを構築しており，投稿の重複はありません．
 
 ### 配布先
-[こちら](http://keldic.net/data/open2ch_dialogue_corpus_ranking.zip)からダウンロードしてください．
+[こちら](https://drive.google.com/file/d/1ROJMPit-0HGRUqvb81CA3iBNmQaI5u7H/view?usp=sharing)からダウンロードしてください．
 
 ### データ形式
 1つの文脈(コーパス本体における対話から，最後の投稿を除いたもの)につき，1つの実際の投稿と9つのランダムに抽出した投稿が収録されています．
