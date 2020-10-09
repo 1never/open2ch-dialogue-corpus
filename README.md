@@ -4,7 +4,7 @@
 おーぷん2ちゃんねる開設時から2019年7月20日までのデータを使用して作成しました．
 
 ## 配布先
-[こちら](http://keldic.net/data/open2ch_dialogue_corpus.zip)からダウンロードしてください．
+[こちら](https://drive.google.com/file/d/1-adMFRaJnzpVFf_NwsWU1s1a-NK4DoGZ/view?usp=sharing)からダウンロードしてください．
 内容を見てみたい方のためのサンプルデータは[こちら](http://keldic.net/data/corpus_sample.tsv)．
 
 ## データ形式
