@@ -63,7 +63,7 @@ $ python replace_br.py --input_file corpus/livejupiter.tsv --output_file corpus/
 
 開発データ(dev.tsv)，もしくはテストデータ(test.tsv)の各投稿に対するスコアのみが入った20000行のファイル(各行の数値が同じ行の投稿に対応)を用意し，以下のコマンドでスクリプトを実行できます．
 ```
-$ python eval_ranking.py --input_file dev.tsv --score_file score_sample.txt
+$ python eval_ranking.py --input_file ranking/dev.tsv --score_file ranking/score_sample.txt
 ```
 
 ## 文献情報
