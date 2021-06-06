@@ -37,12 +37,12 @@ livejupiter.tsvを対象にスクリプトを実行するコマンドは以下�
 
 ### 不適切な用語の除去
 ```
-$ python cleaning.py --input_file livejupiter.tsv --output_file livejupiter_cleaned.tsv
+$ python cleaning.py --input_file corpus/livejupiter.tsv --output_file corpus/livejupiter_cleaned.tsv
 ```
 ### 改行記号の置換
 実行にはmecab-python3が必要です．
 ```
-$ python replace_br.py --input_file livejupiter.tsv --output_file livejupiter_replaced.tsv
+$ python replace_br.py --input_file corpus/livejupiter.tsv --output_file corpus/livejupiter_replaced.tsv
 ```
 
 ## 応答順位付けタスク用データ
