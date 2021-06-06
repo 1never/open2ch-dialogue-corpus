@@ -3,10 +3,6 @@
 [おーぷん2ちゃんねる](https://open2ch.net/)の「なんでも実況(ジュピター)」「ニュー速VIP」「ニュース速報+」の3つの掲示板をクロールして作成した対話コーパスです．
 おーぷん2ちゃんねる開設時から2019年7月20日までのデータを使用して作成しました．
 
-## 配布先
-[こちら](https://drive.google.com/file/d/1-adMFRaJnzpVFf_NwsWU1s1a-NK4DoGZ/view?usp=sharing)からダウンロードしてください．
-内容を見てみたい方のためのサンプルデータは[こちら](https://drive.google.com/file/d/1O24EfKI7Jsjvhh2Tq5qkCmyZP3b6bMnw/view?usp=sharing)．
-
 ## データ形式
 * データはtsv形式であり，レスアンカー「>>」で指定された投稿同士をタブ区切りで連結しています．各行が1対話となります．
 
